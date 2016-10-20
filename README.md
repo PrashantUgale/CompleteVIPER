@@ -1,2 +1,5 @@
-# CompleteVIPER
-Demo app for VIPER Implementation
+
+Complete VIPER :
+
+- Demo app with VIPER Architecture.
+- Modules integration
